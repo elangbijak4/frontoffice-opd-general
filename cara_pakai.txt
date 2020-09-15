@@ -1,0 +1,5 @@
+Cara Pakai:
+1. extraxt admin_bankdata.rar
+2. Kemudian nyalakan xampp, import data simpegm1.sql ke phpmyadmin
+3. pindah folder yang ada di admin_bankdata ke htdocs/
+4. buka browser dan ketik localhost/admin_bankdata/
